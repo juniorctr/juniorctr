@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:-1  tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi71cfliNfbAhXBlJAKHRLyAZQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.foxsportsla.com%2Fni%2Fnews%2F322566-destacada-presencia-de-fox-sports-en-las-ternas-del-martin-fierro-de-cable&psig=AOvVaw3AZF0yKQU_pilgHybLrVRU&ust=1529200191441695" group-title="CANAIS ABERTOS", FOXSPORT
+http://159.69.15.157/loadbalance/foxsports/chunks.m3u8?pxAuth=3tMaZiMKDTCXQ8dZi2gzTgRm1VKvpvIB
